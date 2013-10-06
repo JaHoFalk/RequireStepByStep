@@ -4,9 +4,9 @@ Load all scripts using requier.js
 
 <script data-main="scripts/main.js" src="scripts/require.js"></script>
 
-Define a Module as a Function
+Define a module as a function
 
-Define a Module with a Name
+Define a module with a name
 
 http://requirejs.org/docs/api.html#funcmodule
 
